@@ -1,0 +1,63 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Frenchgirl04.github.io/Admont-Library-Official/manifests/yellowwallpaper",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://c1e81b83-bdff-4a3a-925a-99e325ac57df",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://523cd739-9765-4edd-867c-1e22fef31ca2",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "tiles" : [ {
+          "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+          "width" : 1024,
+          "height" : 1024
+        } ],
+        "protocol" : "http://iiif.io/api/image",
+        "sizes" : [ {
+          "width" : 45,
+          "height" : 71
+        }, {
+          "width" : 89,
+          "height" : 141
+        }, {
+          "width" : 177,
+          "height" : 282
+        }, {
+          "width" : 353,
+          "height" : 563
+        }, {
+          "width" : 705,
+          "height" : 1125
+        }, {
+          "width" : 1410,
+          "height" : 2250
+        } ],
+        "profile" : "http://iiif.io/api/image/2/level0.json",
+        "width" : 1410,
+        "@id" : "https://Frenchgirl04.github.io/Admont-Library-Official/images/TheYellowWallpaper",
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "height" : 2250,
+        "on" : "http://523cd739-9765-4edd-867c-1e22fef31ca2"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
