@@ -1,0 +1,13 @@
+{
+  "id" : "https://Frenchgirl04.github.io/Admont-Library-Official/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Frenchgirl04/Admont-Library-Official project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Frenchgirl04.github.io/Admont-Library-Official/manifests/yellowwallpapermanifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
