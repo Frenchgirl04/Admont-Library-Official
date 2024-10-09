@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Frenchgirl04.github.io/Admont-Library-Official/manifests/yellowwallpaperofficial.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "[The Yellow Wallpaper by Charlotte Perkins Gilman]",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
