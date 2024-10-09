@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "[The Admont Library]",
   "sequences" : [ {
     "@id" : "http://ddf2d5f7-5dd3-41ae-bbfe-436dd7d74936",
     "@type" : "sc:Sequence",
