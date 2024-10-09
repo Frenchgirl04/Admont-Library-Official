@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Frenchgirl04.github.io/Admont-Library-Official/manifests/manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Frenchgirl04.github.io/Admont-Library-Official/manifests/yellowwallpaperofficial.json",
+    "label" : "[Click to edit label]"
   } ]
 }
