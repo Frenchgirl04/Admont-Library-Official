@@ -1,0 +1,52 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Frenchgirl04.github.io/Admont-Library-Official/manifests/yellowwallpaperofficial.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://ddf2d5f7-5dd3-41ae-bbfe-436dd7d74936",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://bc0361ce-5502-4f4c-a596-42b1bdbfddd1",
+      "@type" : "sc:Canvas",
+      "label" : "Yellow Wallpaper",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1de75cc5-ca15-4cbd-8aaf-326d2ee60367",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://frenchgirl04.github.io/Admont-Library-Official/images/TheYellowWallpaper/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://frenchgirl04.github.io/Admont-Library-Official/images/TheYellowWallpaper",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://bc0361ce-5502-4f4c-a596-42b1bdbfddd1"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://bc0361ce-5502-4f4c-a596-42b1bdbfddd1"
+  }
+}
